@@ -19,20 +19,16 @@ def DOS():
      #############
 
      os.system("clear")
-     os.system("figlet ddos-jilrot")
+     os.system("figlet ddos-Meti")
      print
-     print "https://jailbreakandroot.tk"
-     print "https://t.me/kali_Linuxxx"
-     print "https://t.me/jailbreakandroot"
-     print "https://github.com/jailbreakandroot"
-     print "code by @mohamadg80"
+     print "code by @iM3ti"
 
      print
      ip = raw_input("IP Target~#  ")
      port = input("Port~#        ")
 
      os.system("clear")
-     os.system("figlet jilrot")
+     os.system("figlet DDOS-MeTi")
      print "jailbreakandroot...   0% "
      time.sleep(5)
      print "jailbreakandroot....    25%"
