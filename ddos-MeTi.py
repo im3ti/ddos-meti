@@ -29,15 +29,15 @@ def DOS():
 
      os.system("clear")
      os.system("figlet DDOS-MeTi")
-     print "jailbreakandroot...   0% "
+     print "Im3Ti...   0% "
      time.sleep(5)
-     print "jailbreakandroot....    25%"
+     print "Im3Ti....    25%"
      time.sleep(5)
-     print "jailbreakandroot.....    50%"
+     print "Im3Ti.....    50%"
      time.sleep(5)
-     print "jailbreakandroot......    75%"
+     print "Im3Ti......    75%"
      time.sleep(5)
-     print "jailbreakandroot.......   100%"
+     print "Im3Ti.......   100%"
      time.sleep(3)
      sent = 0
      while True:
